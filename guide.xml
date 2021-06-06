@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="../canais/abc-melbourne.gif|../canais/abc-aus.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="../canais/witf.gif|../canais/1620053571.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <icon src="../canais/1598009352.gif|../canais/cbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
